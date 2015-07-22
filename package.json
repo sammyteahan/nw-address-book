@@ -4,7 +4,7 @@
   "window": {
     "height": 600,
     "width": 800,
-    "toolbar": true
+    "toolbar": false
   },
   "dependencies": {
     "angular": "^1.4.3",
