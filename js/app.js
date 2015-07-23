@@ -5,7 +5,6 @@
   .controller('MainCtrl', MainCtrl)
 
 
-
   MainCtrl.$inject = ['$scope', '$state'];
   function MainCtrl($scope, $state) {
     var title = 'Addresses';
